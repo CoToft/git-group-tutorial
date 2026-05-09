@@ -18,5 +18,3 @@ Familiarize students with essential GitHub operations and group collaboration wo
 - Deploying via GitHub Pages
 
 This guide focuses on using GitHub via **Windows/Unix command-line tools** rather than the GitHub Desktop app. While the command line is more efficient, it can be less beginner-friendly — this document aims to bridge that gap.
-
-This is a temporary stash change.
